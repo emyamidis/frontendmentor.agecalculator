@@ -118,7 +118,7 @@ input::-webkit-inner-spin-button {
   }
 
   button {
-    background-image: url(/assets/images/icon-arrow.svg);
+    background-image: url(icon-arrow.svg);
     width: 80px;
     height: 80px;
     border: none;
